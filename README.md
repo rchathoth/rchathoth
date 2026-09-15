@@ -5,9 +5,7 @@ I'm a Computer Science student at the **University of Florida** interested in ba
 ## What I'm Working On
 
 * Developing stronger foundations in **backend and systems engineering**
-* Building performance-conscious projects in **Rust** and **Python**
-* Exploring **machine learning**
-* Improving my understanding of algorithms, data structures, concurrency, and software design
+* A full-stack chess training application using Next.js and React👀
 
 ## Favorite Project
 
