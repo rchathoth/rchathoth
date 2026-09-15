@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rohit Chathoth👋
 
-<!--
-**rchathoth/rchathoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the **University of Florida** interested in backend engineering, systems programming, and applied machine learning.
 
-Here are some ideas to get you started:
+I use projects to build a stronger understanding of how software works under the hood, with an emphasis on performance, clean architecture, and practical problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+* Developing stronger foundations in **backend and systems engineering**
+* Building performance-conscious projects in **Rust** and **Python**
+* Exploring **machine learning**
+* Improving my understanding of algorithms, data structures, concurrency, and software design
+
+## Favorite Project
+
+### [Connect 4 Neuroevolution AI](https://github.com/rchathoth/Genetic-Algorithm-Connect-4)
+
+A Connect 4 AI engine built in **Rust** using a neural network and genetic algorithm, with parallelized training and model checkpointing.
+
+## Languages
+
+Python · C++ · Java · Rust · JavaScript · HTML · CSS
