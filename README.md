@@ -1,8 +1,6 @@
 # Hi, I'm Rohit Chathoth👋
 
-I'm a Computer Science student at the **University of Florida** interested in backend engineering, systems programming, and applied machine learning.
-
-I use projects to build a stronger understanding of how software works under the hood, with an emphasis on performance, clean architecture, and practical problem solving.
+I'm a Computer Science student at the **University of Florida** interested in backend engineering, systems programming, and applied machine learning. I'm a huge believer in project-based learning to build a stronger understanding of how software works under the hood, and this GitHub is where I do that!.
 
 ## What I'm Working On
 
